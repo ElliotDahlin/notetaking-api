@@ -37,6 +37,7 @@ This is a simple Note-taking API built with Golang using clean architecture prin
 - `PUT /notes/{id}` - Update a note by ID.
 - `DELETE /notes/{id}` - Delete a note by ID.
 
-## License
+## Postman
+In this repo you can find postman collection file that you can use to test out the application
 
 
