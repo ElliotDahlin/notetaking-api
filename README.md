@@ -39,4 +39,4 @@ This is a simple Note-taking API built with Golang using clean architecture prin
 
 ## License
 
-This project is licensed under the MIT License.
+
